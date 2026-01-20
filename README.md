@@ -1,4 +1,3 @@
-# medialab-website-datos
 # Proyecto: Website académico/Tech con dataset de titulares del Blog de Python
 
 ## Objetivo
